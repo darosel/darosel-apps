@@ -1,0 +1,80 @@
+{
+  "schema": 1,
+  "updated": "2026-11-09",
+  "apps": [
+    {
+      "id": "weekspark",
+      "name": "WeekSpark",
+      "appStoreName": "WeekSpark: Weekly Planner",
+      "title": {
+        "en": "WeekSpark: Weekly Planner",
+        "sv": "WeekSpark: Veckokalender"
+      },
+      "subtitle": {
+        "en": "Weekly calendar for the family",
+        "sv": "Veckokalender för familjen",
+        "fi": "Viikkokalenteri koko perheelle",
+        "nb": "Ukekalender for familien",
+        "da": "Ugekalender for familien",
+        "de": "Wochenkalender für die Familie",
+        "fr": "Calendrier de la semaine pour la famille",
+        "es": "Calendario semanal para la familia",
+        "pt": "Calendário semanal para a família",
+        "id": "Kalender mingguan untuk keluarga",
+        "zh": "全家人的周历",
+        "ja": "家族のための週間カレンダー",
+        "ko": "가족을 위한 주간 캘린더",
+        "hi": "परिवार के लिए साप्ताहिक कैलेंडर",
+        "ar": "تقويم أسبوعي للعائلة"
+      },
+      "icon": "icons/weekspark.png",
+      "appStoreId": "6809785269",
+      "url": "https://apps.apple.com/app/id6809785269",
+      "live": true
+    },
+    {
+      "id": "dictamen",
+      "name": "Dictamen",
+      "appStoreName": "Dictamen: Speech to Text",
+      "title": {
+        "en": "Dictamen"
+      },
+      "subtitle": {
+        "en": "Dictate in 13 languages",
+        "sv": "Diktera på 13 språk",
+        "fi": "Sanele 13 kielellä",
+        "nb": "Dikter på 13 språk",
+        "da": "Diktér på 13 sprog",
+        "de": "Diktieren in 13 Sprachen",
+        "fr": "Dictez en 13 langues",
+        "es": "Dicta en 13 idiomas",
+        "pt": "Dite em 13 idiomas",
+        "id": "Dikte dalam 13 bahasa",
+        "zh": "支持 13 种语言的听写",
+        "ja": "13 言語で音声入力",
+        "ko": "13개 언어로 받아쓰기",
+        "hi": "13 भाषाओं में डिक्टेट करें",
+        "ar": "إملاء بـ 13 لغة"
+      },
+      "icon": "icons/dictamen.png",
+      "appStoreId": "6821569375",
+      "url": "https://apps.apple.com/app/id6821569375",
+      "live": false
+    },
+    {
+      "id": "keyharbor",
+      "name": "KeyHarbor",
+      "appStoreName": "KeyHarbor",
+      "title": {
+        "en": "KeyHarbor"
+      },
+      "subtitle": {
+        "en": "Coming soon"
+      },
+      "icon": "icons/keyharbor.png",
+      "appStoreId": "",
+      "url": "",
+      "live": false
+    }
+  ]
+}
