@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-09",
+  "updated": "2026-11-24",
   "apps": [
     {
       "id": "weekspark",
@@ -59,7 +59,7 @@
       "icon": "icons/dictamen.png",
       "appStoreId": "6821569375",
       "url": "https://apps.apple.com/app/id6821569375",
-      "live": false
+      "live": true
     },
     {
       "id": "keyharbor",
